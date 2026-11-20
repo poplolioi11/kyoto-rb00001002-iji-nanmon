@@ -1,0 +1,189 @@
+{
+  "historical_author": "澁江道陸（允成，號定所）",
+  "source_identity": "京都大學附屬圖書館富士川文庫 イ/165，RB00001002",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001002",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001002/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 16,
+  "content_scan_count": 10,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "c7a263d51a99bfd5b44c56dcec552221498e2c6957a90f8134d81609928fdbe9",
+      "content_role": "housing-binding-or-empty-leaves"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "492e0dfc6030352b88297a428238fb128b363036e887731f4355c58010760cf8",
+      "content_role": "housing-binding-or-empty-leaves"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "69839c8393868f0377cd5501bb09e50816d0bcd8815a413756be6a437afd52de",
+      "content_role": "housing-binding-or-empty-leaves"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "6a044de1d47547ff9b876c0f9f95f1ca288ce0f4f79ab5bbeb17ed9d3257759d",
+      "content_role": "medical-diagrams-and-opening"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "feb13614e3eb9b756e3c079700e8d831eca571073eacd41b0622841d27158cdb",
+      "content_role": "medical-diagrams-and-opening"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "ebb618fbda0e4117ac04ebf677191b7061bb4c7f1b5f70edf7671cd86a4d52d9",
+      "content_role": "clinical-questions-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "4f7513e7dc82fa62afbf46ebfcbfd7dc703ce721f077fc1d78c0c515b6753b0c",
+      "content_role": "clinical-questions-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "b4e0d67595bf4b242e848fedd7ee6ba500acd8b785441a5420a75d95cb72c61a",
+      "content_role": "clinical-questions-text"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "963b7cbee91eac4d188188747692d672685d1b5cae239b78aaa171821cb9892b",
+      "content_role": "appendix-case-report"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "0a6e248825555c46d867d998fff75ffba606d1a0e6cebb3b8247a07b056c9e7e",
+      "content_role": "appendix-case-report"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "2a4131a86acaf180961edaf2bc6bbe377da1e7284836b96affb4f5f582813549",
+      "content_role": "appendix-case-report"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "802f1ad221dca7fff3de2687cad9fb1bc04a64f7f5d27b7c351ebe3486dfe050",
+      "content_role": "appendix-case-report"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "48683866977c4487e84986cc7fc0aeb16dcb0d3a45ffcbc0216d08ba14231ed4",
+      "content_role": "appendix-case-report"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "c81e07f47afae34a2d68d7d7cf9a828bc23531a6957cc2a9936dc527e1ed9d53",
+      "content_role": "housing-binding-or-empty-leaves"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p15",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "949432e1b959dbc17bb967bdc7c6bd792b63ec794f8e7107fe2e91a19ed402dc",
+      "content_role": "housing-binding-or-empty-leaves"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p16",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "008d829c45241436dcdbb7948dba55bd67e02a266dc04a8ecd8f6fa46cc231e2",
+      "content_role": "housing-binding-or-empty-leaves"
+    }
+  ]
+}

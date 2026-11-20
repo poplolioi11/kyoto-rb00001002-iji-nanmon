@@ -1,0 +1,1389 @@
+{
+  "metadata": {
+    "title": "醫事難問附治驗一條",
+    "catalogue_title": "医事難問",
+    "alternate_title": "醫事難問；治驗一條",
+    "roman_title": "Iji nanmon, with Chiken ichijō",
+    "author": "澁江道陸（澁江允成，號定所）",
+    "date": "江戶時代著作，抄本無確切抄年。第 8 幅文內並記安永丙申（1776）與寬政己未（1799）。",
+    "location": "日本（成書），京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "イ/165",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001002",
+    "original_source_doi": "10.20730/100253634",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "澁江道陸的漢文醫事問答、《治驗一條》及往返文字，同函保存。原圖第4至5幅見人體與脈候相關圖記；文字將圖標、旁添字和款識分層。第8幅文內紀年非館藏抄本書寫年代。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001002/manifest.json",
+    "manifest_sha256": "c1b3dddc4bfda3a7f1fce66c30c87a2940a7560a6e1c74d8df733cec37c4ae47",
+    "record_id": "RB00001002",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "醫事難問附治驗一條（江戶醫籍抄本，京都大學 イ/165） / Iji nanmon, with Chiken ichijō [Medical questions and an appended case report]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "c7a263d51a99bfd5b44c56dcec552221498e2c6957a90f8134d81609928fdbe9",
+      "bytes": 263654,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：合函側拍，棉繫帶及館籤邊可見。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "492e0dfc6030352b88297a428238fb128b363036e887731f4355c58010760cf8",
+      "bytes": 362121,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "函脊題簽",
+              "text": "醫事難問　附　治驗一條",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "函脊下館籤",
+              "text": "イ／165",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "イ",
+                "165"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：題簽原附兩題，同函同冊。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "69839c8393868f0377cd5501bb09e50816d0bcd8815a413756be6a437afd52de",
+      "bytes": 228829,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "前封右上館籤",
+              "text": "イ／165",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "イ",
+                "165"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：前封斑駁，正面未見另書古題。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "6a044de1d47547ff9b876c0f9f95f1ca288ce0f4f79ab5bbeb17ed9d3257759d",
+      "bytes": 201458,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "medical-diagrams-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖右總題",
+              "text": "附人迎氣口三部九候古今不同圖",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "總題下署",
+              "text": "澁江道陸",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖上橫題，自右向左",
+              "text": "素難人迎氣口圖",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖頸側",
+              "text": "人迎",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖頸中央",
+              "text": "結喉",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面左腕",
+              "text": "氣口",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面右腕",
+              "text": "氣口",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "雙手圖旁縱題",
+              "text": "王叔和人迎氣口圖",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上手圖掌內",
+              "text": "右手",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上手圖腕圖，由上向下",
+              "text": "寸／關／尺",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "寸",
+                "關",
+                "尺"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上手圖關格右側界標",
+              "text": "氣口／前／後",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "氣口",
+                "前",
+                "後"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下手圖掌內",
+              "text": "左手",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下手圖腕圖，由上向下",
+              "text": "寸／關／尺",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "寸",
+                "關",
+                "尺"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下手圖關格左側界標",
+              "text": "人迎／前／後",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "人迎",
+                "前",
+                "後"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "上緣墨色橢圓館藏印",
+              "text": "183568／昭7.3.31",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "183568",
+                "昭7.3.31"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "上緣右側朱文方印",
+              "text": "京都帝國大學圖書之印",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "近折縫右下朱色長印",
+              "text": "富士川游寄贈",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "此面以圖與文字並列，上下兩手圖另繪，並有朱點。雙手圖讀序保留上、下位置，圖面左／右依影像位置。方印篆字、橢圓印頂部標識待核。題署首字按手寫水旁及疊止讀「澁」。圖像與紅點座標未轉換。"
+        }
+      ],
+      "observations": "右面：空面，無描繪及文字。 左面：此面以圖與文字並列，上下兩手圖另繪，並有朱點。雙手圖讀序保留上、下位置，圖面左／右依影像位置。方印篆字、橢圓印頂部標識待核。題署首字按手寫水旁及疊止讀「澁」。圖像與紅點座標未轉換。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "feb13614e3eb9b756e3c079700e8d831eca571073eacd41b0622841d27158cdb",
+      "bytes": 244403,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "medical-diagrams-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "人體圖上橫題，自右向左",
+              "text": "素問三部九候圖",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖頭面右列",
+              "text": "上部天／上部人／上部地",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "上部天",
+                "上部人",
+                "上部地"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖頭面左列",
+              "text": "頷厭之分／和髎之分／地倉大迎之分",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "頷厭之分",
+                "和髎之分",
+                "地倉大迎之分"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面左手",
+              "text": "寸口／合谷之次／神門之次",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "寸口",
+                "合谷之次",
+                "神門之次"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面右手",
+              "text": "中部天／中部地",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "中部天",
+                "中部地"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面右大腿內側圖籤",
+              "text": "下部天／中部人／下部人",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "下部天",
+                "中部人",
+                "下部人"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面左大腿側",
+              "text": "三里之分／箕門之分",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "三里之分",
+                "箕門之分"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面左足旁",
+              "text": "太",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "人體圖圖面右足下",
+              "text": "下部地",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "雙腕圖旁縱題",
+              "text": "難經三部九候圖",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上手圖掌內",
+              "text": "右手",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上手圖腕格及右側小字",
+              "text": "寸 浮中沉／關 浮中沉／尺 浮中沉",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "寸 浮中沉",
+                "關 浮中沉",
+                "尺 浮中沉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下手圖掌內",
+              "text": "左手",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "下手圖腕格及左側小字",
+              "text": "寸 浮中沉／關 浮中沉／尺 浮中沉",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "寸 浮中沉",
+                "關 浮中沉",
+                "尺 浮中沉"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "醫事難問"
+            },
+            {
+              "text": "問人迎氣口三部"
+            },
+            {
+              "text": "九候問曰人迎氣口古今異其所三部九候亦"
+            },
+            {
+              "text": "其所指不同請聞明解"
+            },
+            {
+              "text": "對人迎氣口三部九候問"
+            },
+            {
+              "text": "謹按所謂人迎足陽明胃經之動脉即在結喉"
+            },
+            {
+              "text": "兩旁各一寸半也動輸本輸經脉篇已有明證"
+            },
+            {
+              "text": "所謂氣口手太陰肺經之動脉兩手所同稱也"
+            },
+            {
+              "text": "一名寸口一名脉口是名雖三而實則一耳內"
+            },
+            {
+              "text": "經難經亦有明證逮晉之王叔和左手為人迎"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1有字欄題名下小字",
+              "text": "己未二月十七日",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：圖籤方向依影像位置，手圖手別依墨字。「頷／顑」「髎」「箕」「太／大」為需留意之字，足旁只見單字，不補。中部人標字落於大腿旁，連線來源需另作圖層。兩腕三格皆有「浮中沉」三小字。圖像與紅點座標未轉換。 左面：題名、日期及首問同欄分區。第6有字欄依底本讀「動輸本輸」，不以字書改俞。字形「脉」原形。無可確定返點。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "ebb618fbda0e4117ac04ebf677191b7061bb4c7f1b5f70edf7671cd86a4d52d9",
+      "bytes": 250457,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "clinical-questions-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "以候表右手為氣口以候裏而東垣李氏宗之"
+            },
+            {
+              "text": "自茲厥後歷代醫師無不尊信之至明之景岳"
+            },
+            {
+              "text": "張氏極言其非曰如脉見緊數此寒邪外感也"
+            },
+            {
+              "text": "然未有左數而右不數者又如所云左大者為"
+            },
+            {
+              "text": "風邪右大者為飲食則尤其不然夫人生稟賦"
+            },
+            {
+              "text": "之常凡右脉大者十居八九左脉大者十居一"
+            },
+            {
+              "text": "二若果陽邪在表則大者更大豈以右脉本大"
+            },
+            {
+              "text": "而可認為食乎若飲食在藏則強者愈強豈以"
+            },
+            {
+              "text": "左脉本強而可認為寒乎可謂的確之論矣所"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "謂三部九候上古診法分人身上中下謂之三"
+            },
+            {
+              "text": "部部有三候三而三之故為九候也三部九候"
+            },
+            {
+              "text": "論可以見已仲景取寸口與趺陽亦此意也越"
+            },
+            {
+              "text": "人之難經異乎此曰三部者寸關尺也九候者"
+            },
+            {
+              "text": "浮中沈也是分三部九候於寸口也後世診家"
+            },
+            {
+              "text": "皆宗之是雖其所指不同而素難之所說及仲"
+            },
+            {
+              "text": "景之所論三法鼎立所宜取法也"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "已",
+          "candidates": [],
+          "note": "左第3欄「已」近「己」，「越」依本圖；第5欄作「沈」，對照圖內小字之候選「沉」可再核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "越",
+          "candidates": [],
+          "note": "左第3欄「已」近「己」，「越」依本圖；第5欄作「沈」，對照圖內小字之候選「沉」可再核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "沈",
+          "candidates": [],
+          "note": "左第3欄「已」近「己」，「越」依本圖；第5欄作「沈」，對照圖內小字之候選「沉」可再核。"
+        }
+      ],
+      "observations": "右面：右第2欄「自茲厥後」首三字待校。原作脉。 左面：左第3欄「已」近「己」，「越」依本圖；第5欄作「沈」，對照圖內小字之候選「沉」可再核。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "4f7513e7dc82fa62afbf46ebfcbfd7dc703ce721f077fc1d78c0c515b6753b0c",
+      "bytes": 276286,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "clinical-questions-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "問久病治法"
+            },
+            {
+              "text": "問曰一男年雖四九形體瘦弱脉細無力四肢"
+            },
+            {
+              "text": "怠倦左腹有塊如拳按之甚堅動則築然而痛"
+            },
+            {
+              "text": "兩目時昏時明兩耳時聰時聾詢其致病之由"
+            },
+            {
+              "text": "少年緣樹墜下觸傷陰囊去血甚多以成斯"
+            },
+            {
+              "text": "症是傷在何經治用何藥幸顯示至理"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1欄題名下小字",
+              "text": "三月十七日",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "附錄治驗一條"
+            },
+            {
+              "text": "伊勢屋源助妻二十餘歲稟賦怯弱去三載前"
+            },
+            {
+              "text": "產一女子胎前日吐血少則半合多則一合或"
+            },
+            {
+              "text": "至七八合及期不已產後又一日吐血七八合"
+            },
+            {
+              "text": "後不復吐血唯是胎前娩後將養失所以故虛"
+            },
+            {
+              "text": "羸勞倦往來寒熱咳嗽口乾五心煩熱時有盜"
+            },
+            {
+              "text": "汗氣息喘之顏色憔悴今茲己未之春患苦益"
+            },
+            {
+              "text": "甚延余請治診之六脉無力浮大而數重按之"
+            },
+            {
+              "text": "則欲絕是由氣血兩虛而致也治宜補血益氣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1欄題名下小字",
+              "text": "己未三月",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "娩",
+          "candidates": [],
+          "note": "左第5欄「娩」候選，草筆足旁近兔。左第7欄「之」候選「乏」。第8欄末「重按」墨較深。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "之",
+          "candidates": [],
+          "note": "左第5欄「娩」候選，草筆足旁近兔。左第7欄「之」候選「乏」。第8欄末「重按」墨較深。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "重按",
+          "candidates": [],
+          "note": "左第5欄「娩」候選，草筆足旁近兔。左第7欄「之」候選「乏」。第8欄末「重按」墨較深。"
+        }
+      ],
+      "observations": "右面：右第3欄「怠／急」「築」待校。第4欄前「兩」為異體手寫，形與第二個「兩」有別。 左面：左第5欄「娩」候選，草筆足旁近兔。左第7欄「之」候選「乏」。第8欄末「重按」墨較深。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "b4e0d67595bf4b242e848fedd7ee6ba500acd8b785441a5420a75d95cb72c61a",
+      "bytes": 212482,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "clinical-questions-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "扶脾清肺之劑方用六君子湯合生脉散加當"
+            },
+            {
+              "text": "歸芍藥柴胡連進十餘日前證減半但咳嗽喘"
+            },
+            {
+              "text": "之有時腹痛仍於前方中出入加減隨時變易"
+            },
+            {
+              "text": "三旬之後愈十之七八兩月乃復故"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "問麻疹"
+            },
+            {
+              "text": "問曰麻疹一證其流行也隔二三十年輒又罕"
+            },
+            {
+              "text": "見其病自非成人不能悉其證以天正以來考"
+            },
+            {
+              "text": "之多在二十四五年之間予生十三年而遭此"
+            },
+            {
+              "text": "病實安永丙申也迄今茲寬政己未相去凡二"
+            },
+            {
+              "text": "十四年因思此病流行蓋在一二年之間吾"
+            },
+            {
+              "text": "輩之所當講習也幸明示麻疹之原與證治之"
+            },
+            {
+              "text": "大法以開茅塞"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第1欄題名下小字",
+              "text": "四月十七日",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "第3欄「非」旁夾小字",
+              "text": "弱",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：續第07幅左頁附錄。 左面：左第2欄末「輒」形繁，近「輙」；第3欄「弱」旁註與正文的插入關係待校。「安永丙申」「寬政己未」兩紀年可辨。此幅左面書寫為流行時距及作者自述。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "963b7cbee91eac4d188188747692d672685d1b5cae239b78aaa171821cb9892b",
+      "bytes": 201261,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "appendix-case-report",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一男子年五十餘患脫肛調治百日而愈爾後"
+            },
+            {
+              "text": "腰腹之間攣引絞痛數十日覺於腰腹間如百"
+            },
+            {
+              "text": "條麻線觧散下于兩足直到脚底乃後却囘上"
+            },
+            {
+              "text": "行兩股入腰腹間少時而又發如初君此者晝"
+            },
+            {
+              "text": "夜五六度各四五十日衆醫爲疝爲蛇或氣或"
+            },
+            {
+              "text": "梅雜治不驗於此召余診之顏色蒼黃肌肉"
+            },
+            {
+              "text": "漸削氣力少衰飮食不進大便或祕或溏小水"
+            },
+            {
+              "text": "如常夜不能安睡兩脈細微無力腹心之動彈"
+            },
+            {
+              "text": "指"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "觧",
+          "candidates": [],
+          "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "兩足",
+          "candidates": [],
+          "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "君",
+          "candidates": [],
+          "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "溏",
+          "candidates": [],
+          "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "安",
+          "candidates": [],
+          "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        }
+      ],
+      "observations": "右面：白葉。左下有淡環狀紙痕，無可辨正文。 左面：第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "0a6e248825555c46d867d998fff75ffba606d1a0e6cebb3b8247a07b056c9e7e",
+      "bytes": 257222,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "appendix-case-report",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "右樋口先生所示病狀一篇命允成慮之治"
+            },
+            {
+              "text": "允成性稟下愚何足塞命然辱備醫官之負"
+            },
+            {
+              "text": "不敢顧淺陋陳愚意如左"
+            },
+            {
+              "text": "謹按前証齡已過半百卽形神已衰也其患"
+            },
+            {
+              "text": "脫肛者難徑曰病之虛實入者爲實出者爲"
+            },
+            {
+              "text": "虛是脫肛爲屬虛也唯未審其人之稟賦能"
+            },
+            {
+              "text": "弱與乎昔苦樂也以臆度之所謂虛者脾胃"
+            },
+            {
+              "text": "虛也夫脾胃虛則肺气位虛所以胃之與肺"
+            },
+            {
+              "text": "俱下陷於大腸而致脫肛也調治之者蓋用"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第一欄命下偏右正文",
+              "text": "允成",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "補中益氣之輩以升提胃氣而清陽升濁陰"
+            },
+            {
+              "text": "降而得愈也其腰腹致病而又從腰腹至脚"
+            },
+            {
+              "text": "下麻痺者卽是氣疝也蓋疝之爲病屬足厥"
+            },
+            {
+              "text": "陰而多生於溼熱肝屬下部其性慓悍從腰"
+            },
+            {
+              "text": "腹至脚下溫熱動下也攣引致痛囘氣凝"
+            },
+            {
+              "text": "滯走注麻痺從氣之升降也李梃云疝痛走"
+            },
+            {
+              "text": "注無形屬氣是也顏色蒼黃以下症者病"
+            },
+            {
+              "text": "苦日久而形神俱虛也如脈亦然不安睡者"
+            },
+            {
+              "text": "神魂不寧也所謂心腹之動者豈腎間之動"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：「負」左旁薄，候負／責。第4欄「証」從言正。第5欄「難徑」的徑形候經。第8欄肺後寫簡短气形。 左面：第4欄溼右下見小土形，「慓悍」的慓也候慓／剽。第5欄近頂的至筆較濃。第6欄「李梃」末字左木右廷。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "2a4131a86acaf180961edaf2bc6bbe377da1e7284836b96affb4f5f582813549",
+      "bytes": 202020,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "appendix-case-report",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "邪是虛極之甚不可不恐也法當先治其麻"
+            },
+            {
+              "text": "痺此所謂急則治其標者也宜主用當"
+            },
+            {
+              "text": "枯痛湯補氣升陽潤血滋陰驅逐風濕而"
+            },
+            {
+              "text": "後隨症調治則可奏全效也茲述管見"
+            },
+            {
+              "text": "高明垂教"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁分列日期",
+              "text": "甲寅五月",
+              "column_anchor": 5,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁同行不同高度署款",
+              "text": "澁江允成謹書",
+              "column_anchor": 5,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一婦年二十一始姙七月胸間煩熱心下痞滿口中"
+            },
+            {
+              "text": "糜爛飮水日晝一斗手足無腫腹滿引兩脇小水晝"
+            },
+            {
+              "text": "夜六七度量飮水之半胎下墜活動無力脈細數食"
+            },
+            {
+              "text": "無味強下二三椀如此者三四十日諸療無効"
+            },
+            {
+              "text": "七日"
+            },
+            {
+              "text": "右"
+            },
+            {
+              "text": "謹按前症是上消也蓋消渴之爲病以陽盛陰衰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第四欄末小字",
+              "text": "五月",
+              "column_anchor": 7,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁「右」下端署款",
+              "text": "樋口道仙",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第3欄起「枯」左木右古，與上一欄末「當」接續，照抄形保留。驅後「逐」筆形簡化，候逐／涿。末段日期在上，澁江位置居下，允成凸出右側，謹書在署名以下。 左面：第2欄兩個晝字皆有底橫。第4欄十後字手寫略似月，按封框和位置暫讀日。日期「五月」在第4欄下端，「七日」換一短欄，兩處在讀序相接。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "802f1ad221dca7fff3de2687cad9fb1bc04a64f7f5d27b7c351ebe3486dfe050",
+      "bytes": 199638,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "appendix-case-report",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "也所謂陽盛卽心火亢極也所謂陰衰卽腎水虛"
+            },
+            {
+              "text": "渴則不能制肺也胎下墜活動無力者以心火熾"
+            },
+            {
+              "text": "盛則肺氣虛之氣不能以保胎也脈細數者是陰"
+            },
+            {
+              "text": "虛火盛也法當先用竹葉石膏湯瀉心火洩肺"
+            },
+            {
+              "text": "燥也姜竹葉石膏之辛寒俱入心肺瀉上焦煩熱"
+            },
+            {
+              "text": "麥冬之甘寒除熱止渴參艸粳米之甘平保胃生"
+            },
+            {
+              "text": "津半夏之辛溫通氣化液也而心肺位近宜小其"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "制況石膏半夏爲姙家禁藥乎而有故無殞但當"
+            },
+            {
+              "text": "斟酌爾若用前劑而諸症稍退則宜用安胎清補"
+            },
+            {
+              "text": "之劑而後子母壯健乃其生如達可以報成績也"
+            },
+            {
+              "text": "敢請正"
+            },
+            {
+              "text": "右"
+            },
+            {
+              "text": "治驗"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁「右」下端署款",
+              "text": "澁江道陸",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁「治驗」下端另署",
+              "text": "澁江道陸",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第4欄末「洩」左見水點，右有長直及斜末筆，候洩／泄；第6欄遒勁寫艸，米旁字形近粳。 左面：第1欄「殞」偏旁淡，「達」第3欄辶可辨。兩署對應上方分列，頁面左側另見若干短墨點。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "48683866977c4487e84986cc7fc0aeb16dcb0d3a45ffcbc0216d08ba14231ed4",
+      "bytes": 200670,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "appendix-case-report",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "商人儀兵衛年過不惑稟弱形瘦初夏病疫脈浮"
+            },
+            {
+              "text": "而數憎寒壯熱身痛頭疼自汗不食與九味羌甜湯"
+            },
+            {
+              "text": "四五日脈弦細頭痛發熱耳聾嘔噦舌胎白滑更"
+            },
+            {
+              "text": "作小柴胡湯二三日忽發寒戰家人駭而告予予曰"
+            },
+            {
+              "text": "是佳兆也當戰止而發熱熱退而諸症了了果如所"
+            },
+            {
+              "text": "言調理四五日漸漸恢復適會夫婦反目因與小柴"
+            },
+            {
+              "text": "胡湯翌日午後自汗如流昏暮予往而視之脈微遲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第二欄「甜」右旁小字",
+              "text": "活",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "無力四肢厥冷筋惕肉瞤伏卧呻吟是流汗不止而"
+            },
+            {
+              "text": "脫亡眞陽也自非附子不能囘陽急飮眞武湯周時"
+            },
+            {
+              "text": "脈轉濬而有力四肢溫和諸若氷釋調和十餘日而"
+            },
+            {
+              "text": "全已"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第二欄正文「甜」左有舌形，右甘，旁有更訂用小字「活」；保留兩層。第三欄「舌胎」按形。末欄「昏暮」之昏上部收成圈狀。 左面：第1欄「卧」無人旁；「瞤」右門內細。第3欄脈轉後左水，右形近「濬／緩」。氷字左有點形。「諸若」的若上似艹，亦候苦。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "c81e07f47afae34a2d68d7d7cf9a828bc23531a6957cc2a9936dc527e1ed9d53",
+      "bytes": 156109,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：正面白紙。 左面：全面白紙，左下折角。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "949432e1b959dbc17bb967bdc7c6bd792b63ec794f8e7107fe2e91a19ed402dc",
+      "bytes": 159711,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左下折角淡墨",
+              "text": "□□",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "左下折角淡墨",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "右面：右面未見可辨文字。 左面：折角露出的淡墨筆畫不全，字數約略。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001002/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001002%2FRB00001002_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "008d829c45241436dcdbb7948dba55bd67e02a266dc04a8ecd8f6fa46cc231e2",
+      "bytes": 199722,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-binding-or-empty-leaves",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：後封斑駁，未見書寫。"
+    }
+  ]
+}
