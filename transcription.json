@@ -18,11 +18,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001002/manifest.json",
     "manifest_sha256": "c1b3dddc4bfda3a7f1fce66c30c87a2940a7560a6e1c74d8df733cec37c4ae47",
     "record_id": "RB00001002",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫事難問附治驗一條（江戶醫籍抄本，京都大學 イ/165） / Iji nanmon, with Chiken ichijō [Medical questions and an appended case report]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -153,7 +153,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "medical-diagrams-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -336,7 +336,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "medical-diagrams-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -543,7 +543,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-questions-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -646,7 +646,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-questions-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -762,7 +762,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-questions-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -846,7 +846,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix-case-report",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -857,7 +857,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "一男子年五十餘患脫肛調治百日而愈爾後"
+              "text": "一男子年五十餘患脫肛調治百日而愈尒後"
             },
             {
               "text": "腰腹之間攣引絞痛數十日覺於腰腹間如百"
@@ -869,7 +869,7 @@
               "text": "行兩股入腰腹間少時而又發如初君此者晝"
             },
             {
-              "text": "夜五六度各四五十日衆醫爲疝爲蛇或氣或"
+              "text": "夜五六度殆四五十日衆醫爲疝爲蛇或氣或"
             },
             {
               "text": "梅雜治不驗於此召余診之顏色蒼黃肌肉"
@@ -922,6 +922,16 @@
           "context": "安",
           "candidates": [],
           "note": "第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "尒",
+          "candidates": [
+            "尒",
+            "尓"
+          ],
+          "note": "原圖留讀及異讀候選。"
         }
       ],
       "observations": "右面：白葉。左下有淡環狀紙痕，無可辨正文。 左面：第3欄「觧」按角羊異體保留，「兩足」的足形淡。第4欄「君」形近君亦候若。第5欄日上各形。第6欄首字左木右每，按形作梅，語義待核。第7欄「溏」右內筆纏連。第8欄「安」有淡墨與紙染；末欄獨有指字。"
@@ -941,7 +951,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix-case-report",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -950,7 +960,7 @@
               "text": "右樋口先生所示病狀一篇命允成慮之治"
             },
             {
-              "text": "允成性稟下愚何足塞命然辱備醫官之負"
+              "text": "允成性稟下愚何足塞命然辱備醫官之員"
             },
             {
               "text": "不敢顧淺陋陳愚意如左"
@@ -1018,7 +1028,18 @@
           "extras": []
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "難徑",
+          "candidates": [
+            "難徑",
+            "難經"
+          ],
+          "note": "原圖留讀及異讀候選。"
+        }
+      ],
       "observations": "右面：「負」左旁薄，候負／責。第4欄「証」從言正。第5欄「難徑」的徑形候經。第8欄肺後寫簡短气形。 左面：第4欄溼右下見小土形，「慓悍」的慓也候慓／剽。第5欄近頂的至筆較濃。第6欄「李梃」末字左木右廷。"
     },
     {
@@ -1036,7 +1057,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix-case-report",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1087,7 +1108,7 @@
               "text": "夜六七度量飮水之半胎下墜活動無力脈細數食"
             },
             {
-              "text": "無味強下二三椀如此者三四十日諸療無効"
+              "text": "無味強下二三椀如此者三四十月諸療無効"
             },
             {
               "text": "七日"
@@ -1117,7 +1138,18 @@
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "三四十月",
+          "candidates": [
+            "三四十月",
+            "三四十日"
+          ],
+          "note": "原圖留讀及異讀候選。"
+        }
+      ],
       "observations": "右面：第3欄起「枯」左木右古，與上一欄末「當」接續，照抄形保留。驅後「逐」筆形簡化，候逐／涿。末段日期在上，澁江位置居下，允成凸出右側，謹書在署名以下。 左面：第2欄兩個晝字皆有底橫。第4欄十後字手寫略似月，按封框和位置暫讀日。日期「五月」在第4欄下端，「七日」換一短欄，兩處在讀序相接。"
     },
     {
@@ -1135,7 +1167,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix-case-report",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1222,7 +1254,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix-case-report",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1278,7 +1310,28 @@
           "extras": []
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "筋惕",
+          "candidates": [
+            "筋惕",
+            "筋煬"
+          ],
+          "note": "原圖留讀及異讀候選。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "諸若",
+          "candidates": [
+            "諸若",
+            "諸苦"
+          ],
+          "note": "原圖留讀及異讀候選。"
+        }
+      ],
       "observations": "右面：第二欄正文「甜」左有舌形，右甘，旁有更訂用小字「活」；保留兩層。第三欄「舌胎」按形。末欄「昏暮」之昏上部收成圈狀。 左面：第1欄「卧」無人旁；「瞤」右門內細。第3欄脈轉後左水，右形近「濬／緩」。氷字左有點形。「諸若」的若上似艹，亦候苦。"
     },
     {

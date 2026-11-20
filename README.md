@@ -4,11 +4,11 @@
 
 Iji nanmon and the appended Chiken ichijō record medical questions and individual cases in Literary Chinese by the Edo physician Shibue Dōriku (Teisho). The Fujikawa Collection manuscript includes anatomical and pulse-related diagrams, histories of illness and consultations, and correspondence. Internal dates refer to 1776 and 1799. The surviving copy is undated.
 
-## V0.1.0
+## V0.2.0
 
-16 幅皆編目。正文、附篇、圖上文字、日期、款識與書衣分列。圖形和細小引線由原圖核看。AI 輔助初錄，草寫及淡墨疑讀已標記。
+16 幅皆編目。正文、附篇、圖上文字、日期、款識與書衣分列。圖形和細小引線由原圖核看。比對未見初稿的本機 OCR 候選後，回圖裁定採用 4 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 16 scans are indexed. The transcription distinguishes the main text, appended case report, diagram labels, dates and signatures. Diagram geometry and connectors can be consulted on the source images. AI-assisted initial reading, with uncertain cursive and faded text marked.
+All 16 scans are indexed. The transcription distinguishes the main text, appended case report, diagram labels, dates and signatures. Diagram geometry and connectors can be consulted on the source images. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 4 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
